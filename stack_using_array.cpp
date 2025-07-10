@@ -67,7 +67,7 @@ int main(){
             cout << "\nStack contents (bottom → top): ";
             for (int i = 0; i <= top; ++i) cout << arr[i] << ' ';
             cout << '\n';
-            return 0;                // terminate cleanly
+            return 0;                
         }
 
         default:
